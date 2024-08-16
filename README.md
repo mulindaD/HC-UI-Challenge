@@ -1,7 +1,7 @@
 # HoneyCoin UI Challenge
 
 ## Project Overview
-This project is a code challenge to recreate the part of our HoneyCoin for Business UI using Angular. The goal is to implement the dashboard and cards view as shown in the provided design mockups.
+This project is a code challenge to recreate a part of our HoneyCoin for Business UI using Angular. The goal is to implement the dashboard and cards view as shown in the provided design mockups.
 
 ## Requirements
 
