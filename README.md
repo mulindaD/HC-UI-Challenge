@@ -16,9 +16,9 @@ This project is a code challenge to recreate a part of our HoneyCoin for Busines
    - Display spending summary for the current month
    - Show change percentage from last month
    - Implement card limit usage indicator
-   
 
-   > Nice to haves
+
+   > The ones below are some nice-to-haves
    - Create a line chart for spending trends
    - Display spending breakdown by category
 
